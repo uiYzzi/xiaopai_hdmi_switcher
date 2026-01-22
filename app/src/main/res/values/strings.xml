@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HDMI 切换器</string>
+    <string name="hdmi_not_found">未找到 HDMI 输入设备</string>
+    <string name="tv_app_not_found">未找到 TV 应用</string>
+    <string name="switching_hdmi">正在切换到 HDMI1...</string>
+</resources>
