@@ -56,7 +56,7 @@ private static final String OPEN_ACTIVITY_NAME = "com.your.device.tvapp.MainActi
 
 MIT License
 
-Copyright (c) 2024 yuckkiko
+Copyright (c) 2026 yuckkiko
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
